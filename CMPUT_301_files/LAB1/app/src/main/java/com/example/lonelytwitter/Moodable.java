@@ -1,2 +1,5 @@
-package com.example.lonelytwitter;public class Moodable {
+package com.example.lonelytwitter;
+
+public interface Moodable {
+    public String getMood();
 }
