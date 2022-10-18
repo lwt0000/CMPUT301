@@ -1,0 +1,21 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2020.1/bin/unwrapped/lnx64.o/xelab -wto cc51a5e303c246b79bdcc2a2cb4f2bc5 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot vending_tb_behav xil_defaultlib.vending_tb -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.clk_divider [clk_divider_default]
+Compiling architecture behavioral of entity xil_defaultlib.clk_divider [\clk_divider(divider=625000)\]
+Compiling architecture behavioral of entity xil_defaultlib.seven_segment [seven_segment_default]
+Compiling architecture behavioral of entity xil_defaultlib.vending_m [vending_m_default]
+Compiling architecture behavioral of entity xil_defaultlib.vending_tb
+Built simulation snapshot vending_tb_behav

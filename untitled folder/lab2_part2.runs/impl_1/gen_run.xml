@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z010clg400-1" LaunchTime="1666049733">
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BITSTR-SYSDEF" Name="vending_m.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="vending_m.ltx"/>
+  <File Type="BG-BGN" Name="vending_m.bgn"/>
+  <File Type="NPI_FILE" Name="vending_m.npi"/>
+  <File Type="BG-DRC" Name="vending_m.drc"/>
+  <File Type="RNPI_FILE" Name="vending_m.rnpi"/>
+  <File Type="CFI_FILE" Name="vending_m.cfi"/>
+  <File Type="RCFI_FILE" Name="vending_m.rcfi"/>
+  <File Type="PDI-FILE" Name="vending_m.pdi"/>
+  <File Type="BITSTR-MMI" Name="vending_m.mmi"/>
+  <File Type="BITSTR-BMM" Name="vending_m_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="vending_m.nky"/>
+  <File Type="BITSTR-RBT" Name="vending_m.rbt"/>
+  <File Type="BITSTR-MSK" Name="vending_m.msk"/>
+  <File Type="RBD_FILE" Name="vending_m.rbd"/>
+  <File Type="BG-BIN" Name="vending_m.bin"/>
+  <File Type="BG-BIT" Name="vending_m.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="vending_m_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="vending_m_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="vending_m_bus_skew_postroute_physopted.rpt"/>
+  <File Type="RDI-RDI" Name="vending_m.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="vending_m_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="vending_m_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="vending_m_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="vending_m_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="vending_m_postroute_physopt.dcp"/>
+  <File Type="ROUTE-BUS-SKEW" Name="vending_m_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="vending_m_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="vending_m_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="vending_m_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="vending_m_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="vending_m_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="vending_m_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="vending_m_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="vending_m_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="vending_m_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="vending_m_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="vending_m_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="vending_m_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="vending_m_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="vending_m_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="vending_m_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="vending_m_drc_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="vending_m_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="vending_m_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="vending_m_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="vending_m_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="vending_m_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="vending_m_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="vending_m_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="vending_m_postplace_pwropt.dcp"/>
+  <File Type="PLACE-TIMING" Name="vending_m_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="vending_m_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="vending_m_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="vending_m_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="vending_m_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="vending_m_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="vending_m_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="vending_m_io_placed.rpt"/>
+  <File Type="PLACE-DCP" Name="vending_m_placed.dcp"/>
+  <File Type="PWROPT-TIMING" Name="vending_m_timing_summary_pwropted.rpt"/>
+  <File Type="PWROPT-DRC" Name="vending_m_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="vending_m_pwropt.dcp"/>
+  <File Type="OPT-TIMING" Name="vending_m_timing_summary_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="vending_m.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="vending_m_methodology_drc_opted.rpt"/>
+  <File Type="OPT-DRC" Name="vending_m_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="vending_m_opt.dcp"/>
+  <File Type="INIT-TIMING" Name="vending_m_timing_summary_init.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="vending_m_bus_skew_routed.rpx"/>
+  <File Type="REPORTS-TCL" Name="vending_m_reports.tcl"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="vending_m_bus_skew_routed.pb"/>
+  <File Type="PA-TCL" Name="vending_m.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/Lab_2 - Resources to successfully complete Part 2 of LAB 2-20221017/clk_divider.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Lab_2 - Resources to successfully complete Part 2 of LAB 2-20221017/clk_divider.vhd"/>
+        <Attr Name="ImportTime" Val="1666039512"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Lab_2 - Resources to successfully complete Part 2 of LAB 2-20221017/seven_segment.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Lab_2 - Resources to successfully complete Part 2 of LAB 2-20221017/seven_segment.vhd"/>
+        <Attr Name="ImportTime" Val="1666039512"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Lab_2 - Resources to successfully complete Part 2 of LAB 2-20221017/vending_m.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Lab_2 - Resources to successfully complete Part 2 of LAB 2-20221017/vending_m.vhd"/>
+        <Attr Name="ImportTime" Val="1666039512"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="vending_m"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/Lab_2 - Resources to successfully complete Part 2 of LAB 2-20221017/vending_xdc_constraint.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Lab_2 - Resources to successfully complete Part 2 of LAB 2-20221017/vending_xdc_constraint.xdc"/>
+        <Attr Name="ImportTime" Val="1666039514"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

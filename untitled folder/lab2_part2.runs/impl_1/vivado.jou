@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:35 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Oct 17 17:36:22 2022
+# Process ID: 42487
+# Current directory: /home/ece410/Desktop/lab2/lab2_part2/lab2_part2.runs/impl_1
+# Command line: vivado -log vending_m.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source vending_m.tcl -notrace
+# Log file: /home/ece410/Desktop/lab2/lab2_part2/lab2_part2.runs/impl_1/vending_m.vdi
+# Journal file: /home/ece410/Desktop/lab2/lab2_part2/lab2_part2.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source vending_m.tcl -notrace

@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../lab2_part2.srcs/sources_1/imports/Lab_2 - Resources to successfully complete Part 2 of LAB 2-20221017/clk_divider.vhd" \
+"../../../../lab2_part2.srcs/sources_1/imports/Lab_2 - Resources to successfully complete Part 2 of LAB 2-20221017/seven_segment.vhd" \
+"../../../../lab2_part2.srcs/sources_1/imports/Lab_2 - Resources to successfully complete Part 2 of LAB 2-20221017/vending_m.vhd" \
+"../../../../lab2_part2.srcs/sim_1/imports/Lab_2 - Resources to successfully complete Part 2 of LAB 2-20221017/vending_tb.vhd" \
+
+# Do not sort compile order
+nosort
